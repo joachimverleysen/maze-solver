@@ -90,7 +90,7 @@ def find_exit(maze, start, end):
 
 def main():
     window = tk.Tk()
-    inputfile = "input/noExit.txt"
+    inputfile = "input/happyDay.txt"
     maze = Maze(inputfile, window)
     start, end = get_start_end(maze)
     if start is None:
