@@ -1,4 +1,7 @@
 # Maze Solver
+
+![maze](images/maze.png)
+
 Visual maze solver using Tkinter. Shortest path to exit is shown. Input is given via a text file.
 
 ## Provide an input file
